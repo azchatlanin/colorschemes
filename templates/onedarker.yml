@@ -26,9 +26,7 @@ palette:
   light_red: '#be5046'
   yellow: '#E5C07B'
   yellow_orange: '#D7BA7D'
-  purple: '#61AFEA'
-    #purple: '#C678DD'
-    #blue_main: '#61AFEA'
+  purple: '#C678DD'
   magenta: '#D16D9E'
 
   cursor_fg: '#515052'
