@@ -27,6 +27,7 @@ palette:
   yellow: '#E5C07B'
   yellow_orange: '#D7BA7D'
   purple: '#C678DD'
+  blue_main: '#61AFEA'
   magenta: '#D16D9E'
 
   cursor_fg: '#515052'
